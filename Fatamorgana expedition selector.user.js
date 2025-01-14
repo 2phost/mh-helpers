@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Highlight next move and expedition route selector functionality.
 // @author       phost
+// @downloadURL  https://github.com/2phost/mh-helpers/raw/refs/heads/main/Fatamorgana%20expedition%20selector.user.js
+// @updateURL    https://github.com/2phost/mh-helpers/raw/refs/heads/main/Fatamorgana%20expedition%20selector.user.js
 // @match        https://myhordes.eu/*
 // @match        https://fatamorgana.md26.eu/*
 // @grant        GM.setValue
